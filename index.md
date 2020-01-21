@@ -6,6 +6,20 @@ Beijing Institute of Technology
 
 Email: chen_jin@bit.edu.cn
 
+<table border="0">
+    <tr>
+      <td width="25%">
+      <img src="/cj.png" width="100%">  
+      </td>
+      <td width="75%">
+        <h1>Chen Jin</h1>
+        <p><b>Ph.D candidate</b></p>
+        <p><b>Beijing Institute of Technology</b></p>
+        <p><b>Email: chen_jin@bit.edu.cn</b></p>
+      </td>
+    </tr>
+</table>
+
 ### Biography
 Jin Chen received the B.S. degree in computer science from the Beijing Institute of Technology,
 Beijing, China, in 2017, where she is currently pursuing the Ph.D. degree in computer science with the Beijing Laboratory of Intelligent Information Technology.
