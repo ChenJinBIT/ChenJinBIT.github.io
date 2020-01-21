@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Chen Jin (陈谨)
 
-You can use the [editor on GitHub](https://github.com/ChenJinBIT/chenjin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ph.D candidate
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Beijing Institute of Technology
 
-### Markdown
+Email: chen_jin@bit.edu.cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Biography
+Jin Chen received the B.S. degree in computer science from the Beijing Institute of Technology,
+Beijing, China, in 2017, where she is currently pursuing the Ph.D. degree in computer science with the Beijing Laboratory of Intelligent Information Technology.
 
-```markdown
-Syntax highlighted code block
+My current research interests include domain adaptation, transfer learning, and machine learning.
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
+**Jin Chen**, Xinxiao Wu, Lixin Duan, Shenghua Gao. Domain Adversarial Reinforcement Learning for Partial Domain Adaptation. arXiv preprint arXiv:1905.04094. 2019. [[pdf]](https://arxiv.org/abs/1905.04094)
 
-- Bulleted
-- List
+Xinxiao Wu, **Jin Chen**, Feiwu Yu, Mingyu Yao, Jiebo Luo. Joint Learning of Multiple Latent Domains and Deep Representations for Domain Adaptation[J]. IEEE transactions on cybernetics, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8745500/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChenJinBIT/chenjin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Jingyi Hou, Xinxiao Wu, **Jin Chen**, Jiebo Luo, Yunde Jia. Unsupervised deep learning of mid-level video representation for action recognition[C]//Thirty-Second AAAI Conference on Artificial Intelligence. 2018. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16794)
