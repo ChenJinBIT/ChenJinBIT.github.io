@@ -1,11 +1,3 @@
-## Chen Jin (陈谨)
-
-Ph.D candidate
-
-Beijing Institute of Technology
-
-Email: chen_jin@bit.edu.cn
-
 <table border="0">
     <tr>
       <td width="25%">
