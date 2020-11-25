@@ -19,7 +19,7 @@ Beijing, China, in 2017, where she is currently pursuing the Ph.D. degree in com
 My current research interests include domain adaptation, transfer learning, and machine learning.
 
 ### Publications
-**Jin Chen**, Xinxiao Wu, Lixin Duan, Shenghua Gao. Domain Adversarial Reinforcement Learning for Partial Domain Adaptation. arXiv preprint arXiv:1905.04094. 2019. [[pdf]](https://arxiv.org/abs/1905.04094)
+**Jin Chen**, Xinxiao Wu, Lixin Duan, Shenghua Gao.Domain adversarial reinforcement learning for partial domain adaptation[J]. IEEE Transactions on Neural Networks and Learning Systems, 2020.[[pdf]](https://ieeexplore.ieee.org/abstract/document/9228896)
 
 Xinxiao Wu, **Jin Chen**, Feiwu Yu, Mingyu Yao, Jiebo Luo. Joint Learning of Multiple Latent Domains and Deep Representations for Domain Adaptation[J]. IEEE transactions on cybernetics, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8745500/)
 
