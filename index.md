@@ -19,8 +19,14 @@ Beijing, China, in 2017, where she is currently pursuing the Ph.D. degree in com
 My current research interests include domain adaptation, transfer learning, and machine learning.
 
 ### Publications
-**Jin Chen**, Xinxiao Wu, Lixin Duan, Shenghua Gao.Domain adversarial reinforcement learning for partial domain adaptation[J]. IEEE Transactions on Neural Networks and Learning Systems, 2020.[[pdf]](https://ieeexplore.ieee.org/abstract/document/9228896)
+**Jin Chen**, Xiaofeng Ji, Xinxiao Wu. Adaptive Image-to-video Scene Graph Generation via Knowledge Reasoning and Adversarial Learning[C]//Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2022.[[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-1731.ChenJ.pdf)
+
+**Jin Chen**, Xinxiao Wu, Lixin Duan, Lin Chen. Sequential Instance Refinement for Cross-Domain Object Detection in Images[J]. IEEE Transactions on Image Processing (TIP), 2021.[[pdf]](https://ieeexplore.ieee.org/abstract/document/9387548)
+
+**Jin Chen**, Xinxiao Wu, Yao Hu, Jiebo Luo. Spatial-temporal Causal Inference for Partial Image-to-video Adaptation[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2021.[[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-1546.ChenJ.pdf)
+
+**Jin Chen**, Xinxiao Wu, Lixin Duan, Shenghua Gao.Domain adversarial reinforcement learning for partial domain adaptation[J]. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2020.[[pdf]](https://ieeexplore.ieee.org/abstract/document/9228896)
 
 Xinxiao Wu, **Jin Chen**, Feiwu Yu, Mingyu Yao, Jiebo Luo. Joint Learning of Multiple Latent Domains and Deep Representations for Domain Adaptation[J]. IEEE transactions on cybernetics, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8745500/)
 
-Jingyi Hou, Xinxiao Wu, **Jin Chen**, Jiebo Luo, Yunde Jia. Unsupervised deep learning of mid-level video representation for action recognition[C]//Thirty-Second AAAI Conference on Artificial Intelligence. 2018. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16794)
+Jingyi Hou, Xinxiao Wu, **Jin Chen**, Jiebo Luo, Yunde Jia. Unsupervised deep learning of mid-level video representation for action recognition[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2018. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16794)
