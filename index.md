@@ -19,6 +19,8 @@ Beijing, China, in 2017, where she is currently pursuing the Ph.D. degree in com
 My current research interests include domain adaptation, transfer learning, and machine learning.
 
 ### Publications
+**Jin Chen**, Zhi Gao, Xinxiao Wu. Meta-causal Learning for Single Domain Generalization. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.[[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Meta-Causal_Learning_for_Single_Domain_Generalization_CVPR_2023_paper.pdf)
+
 **Jin Chen**, Xiaofeng Ji, Xinxiao Wu. Adaptive Image-to-video Scene Graph Generation via Knowledge Reasoning and Adversarial Learning[C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2022.[[pdf]](https://www.aaai.org/AAAI22Papers/AAAI-1731.ChenJ.pdf)
 
 **Jin Chen**, Xinxiao Wu, Lixin Duan, Lin Chen. Sequential Instance Refinement for Cross-Domain Object Detection in Images[J]. IEEE Transactions on Image Processing (TIP), 2021.[[pdf]](https://ieeexplore.ieee.org/abstract/document/9387548)
